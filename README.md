@@ -54,12 +54,12 @@
 
 **1. Clone the repository:**
 ```bash
-    https://github.com/Sameer8750/SCT_TrackCode_01.git
+    https://github.com/Sameer8750/Taabi_Mobility-Task
 ```
 
 **2. Analyze with Python:**
 
-- Dive into the analysis by opening Vehicles_Analysis.ipynb.
+- Dive into the analysis by opening vehicles_Analysis.ipynb.
 
 **3. Dependencies: Install the necessary packages:**
 To run the Python notebook, install the necessary packages:
